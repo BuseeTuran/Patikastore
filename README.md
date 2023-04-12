@@ -1,0 +1,2 @@
+# Patikastore
+React-Native-Patikastore
